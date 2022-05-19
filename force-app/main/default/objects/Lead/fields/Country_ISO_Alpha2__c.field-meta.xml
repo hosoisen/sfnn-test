@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Country_ISO_Alpha2__c</fullName>
+    <externalId>false</externalId>
+    <formula>Country_Info__r.ISO_Alpha2__c</formula>
+    <label>Country ISO Alpha-2</label>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
